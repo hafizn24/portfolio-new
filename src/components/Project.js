@@ -42,7 +42,7 @@ export default function Project() {
                 <CardActions>
                     <Link href={ieee} underline="none" target={"_blank"}>
                         <Button size="small" color="primary">
-                            Learn More
+                            More Info
                         </Button>
                     </Link>
                     <Link href={'https://drive.google.com/file/d/141osFR3C834aFyq0hbv4JtP2FWAkKGa2/view?usp=sharing'} underline="none" target={"_blank"} sx={{ mx: 1 }}>
@@ -73,7 +73,7 @@ export default function Project() {
                 <CardActions>
                     <Link href='/rickandmorty' underline="none">
                         <Button size="small" color="primary">
-                            Learn More
+                            More Info
                         </Button>
                     </Link>
                 </CardActions>
